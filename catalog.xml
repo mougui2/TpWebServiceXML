@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Morgan/Documents/NetBeansProjects/TpWebServiceXML/../../../Downloads/milou.xml" uri="xml-resources/jaxb/milou/milou.xml.xsd"/>
+    <system systemId="file:/C:/Users/Morgan/Documents/NetBeansProjects/TpWebServiceXML/../../../Downloads/milou.xsd" uri="xml-resources/jaxb/milou/milou.xsd"/>
+</catalog>
